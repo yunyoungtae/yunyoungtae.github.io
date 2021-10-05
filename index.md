@@ -33,7 +33,7 @@
 - 이미지  
   <img src="./img/pexels-eyeball-602160.jpg">
 - 동영상
-  [![]](https://youtu.be/-UqPoTAB31s)
+  [![](.https://youtu.be/-UqPoTAB31s)](https://youtu.be/-UqPoTAB31s)
 
 <br><br>
 

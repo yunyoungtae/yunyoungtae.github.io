@@ -33,13 +33,13 @@
 - 이미지  
   <img src="./img/pexels-eyeball-602160.jpg">
 - 동영상
-  [![](.https://youtu.be/-UqPoTAB31s)](https://youtu.be/-UqPoTAB31s)
+  [![](./img/그림.png)](https://youtu.be/s_yoJpdjZBo)
 
 <br><br>
 
 # [대표 이미지]
 
-![그림](./img/pexels-eyeball-602160.jpg)
+![그림](./img/)
 
 <br><br>
 
